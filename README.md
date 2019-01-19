@@ -1,1 +1,1 @@
-This clock was made with only Javascript. The hour hand is not rendering.
+This clock was made with HTML, CSS and plain Javascript. The hour hand is not rendering.
